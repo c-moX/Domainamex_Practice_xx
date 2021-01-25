@@ -1,0 +1,15 @@
+/*  
+Theme Name: Domainamex Child
+Template: Domainamex
+Author: spsimon
+Author URI:  https://domainamex.com/
+Description: My 2020 personal theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Domainamex is designed to be adaptable to a wide range of websites.
+Version:1.0.0
+Tags: sticky-post, theme-options, threaded-comments, translation-ready, one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready, block-patterns.
+text-domain: domainamex-child
+
+*/
+
+.page_title_banner_text h2 {
+    color: red;
+}
